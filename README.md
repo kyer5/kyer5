@@ -3,11 +3,6 @@ Hi ! I'm kyer5.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyer5-counter&count_bg=%23F69D9D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### 👩🏻‍💻 Me
-<p>
-  <a href="https://kyer5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white"/></a>
-</p>
-
 #### 🛠 Skills (Learning • • 🔥)
 <p>
   <a href="https://www.java.com/en/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Java-EB282A?style=flat&logo=Java&logoColor=white"/></a>
