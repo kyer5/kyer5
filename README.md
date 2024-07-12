@@ -1,7 +1,7 @@
 ## Kyer5's Github 🫶🏻
 안녕하세요 ! 백엔드 개발자를 꿈꾸는 강예린입니다. 🤗
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyer5&count_bg=%232F6DC4&title_bg=%23555555&icon=github.svg&icon_color=%23EDEDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F69D9D&title_bg=%23757575&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 👩🏻‍💻 Me
 <p>
