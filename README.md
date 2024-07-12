@@ -5,7 +5,7 @@ Hi ! I'm kyer5.
 
 #### 👩🏻‍💻 Me
 <p>
-  <a href="https://kyer5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
+  <a href="https://kyer5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white"/></a>
   <a href="https://www.instagram.com/kyer.5/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
