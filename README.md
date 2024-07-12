@@ -1,5 +1,5 @@
-## Hi ! 
-백엔드 개발자를 꿈꾸는 강예린입니다. 🤗
+## Kyer5's Github 🫶🏻
+안녕하세요 ! 백엔드 개발자를 꿈꾸는 강예린입니다. 🤗
 
 <p>
   <a href="https://kyer5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a>
