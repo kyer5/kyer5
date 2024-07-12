@@ -3,7 +3,7 @@ Hi ! I'm kyer5.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyer5-counter&count_bg=%23F69D9D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🛠 Skills (Learning • • <img align="center" width="20px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>)
+### 🛠 Skills (Learning • • <img width="20px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>)
 <p>
   <a href="https://www.java.com/en/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Java-EB282A?style=flat&logo=Java&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
