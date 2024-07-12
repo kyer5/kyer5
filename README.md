@@ -1,12 +1,13 @@
 ## Kyer5's Github 🫶🏻
 안녕하세요 ! 백엔드 개발자를 꿈꾸는 강예린입니다. 🤗
 
+### 👩🏻‍💻 Me
 <p>
   <a href="https://kyer5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a>
   <a href="https://www.instagram.com/kyer.5/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-### 🛠 Skills (Learning •••)
+### 🛠 Skills (Learning • • 🔥)
 <p>
   <a href="https://www.java.com/en/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Java-EB282A?style=flat&logo=Java&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
