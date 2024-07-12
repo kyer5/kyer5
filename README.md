@@ -21,5 +21,3 @@ Hi ! I'm kyer5.
   <a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
   <a href="https://git-scm.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyer5&layout=compact)
