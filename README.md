@@ -1,5 +1,5 @@
-## Hi 🐰
-안녕하세요! 백엔드 개발자 지망생 강예린입니다.
+## Welcome 🐰
+Hi! I'm kyer5.
 
 ### 🛠 Skills (Learning • • <img align="center" width="20px" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>)
 <p>
