@@ -1,5 +1,10 @@
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/kyer5" width="400" height="225"/>
-  </a>
-</div>
+## Hi, I'm Kang Yerin <img align="center" width="24px" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
+
+### 👩🏻‍💻 Me
+  [![Me](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kyer5/)  &nbsp;[![Me](assets/tistory.png)](https://kyer5.tistory.com/)
+
+### 🛠 Skills
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql)
+
+### ⚙️ Tools
+  ![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,git)
