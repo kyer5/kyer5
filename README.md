@@ -6,15 +6,15 @@
 <br>
 <div>
   <samp>
+	<p>🔗 Me</p>
+	<a href="https://www.linkedin.com/in/kyer5/">LinkedIn</a> | <a href="https://kyer5.tistory.com/">Blog</a>
+	<br><br>
     <p>💼 Work</p>
-    - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>2025.12 - 2026.03</sub> 
-  </samp>
-  <br><br>
-  <samp>
+    - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>﹒ Intern, 2025.12 - 2026.03</sub> 
+  	<br><br>
     <p>🚀 Activity</p>
-    - Nexters 28th <sub>2026.01 - 2026.02</sub>
-	<br>
-	  - [kakao x goorm] 9oormthonUNIV 4th <sub>2025.03 - 2025.09</sub>
+    - Nexters 28th <sub>2026.01 - 2026.02</sub> <br>
+	- [kakao x goorm] 9oormthonUNIV 4th <sub>2025.03 - 2025.09</sub>
 	<br><br>
 	<p>🏆 Awards</p>
 	- Nexters 28th ﹒ 최우수상 <sub>2026.02</sub> <br>
