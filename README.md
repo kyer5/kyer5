@@ -1,10 +1,26 @@
-## Hi, I'm Kang Yerin <img align="center" width="24px" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
-
-### 👩🏻‍💻 Me
-  [![Me](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kyer5/)  &nbsp;[![Me](assets/tistory.png)](https://kyer5.tistory.com/)
-
-### 🛠 Skills
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql)
-
-### ⚙️ Tools
-  ![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,git)
+<div>
+  <samp>
+    강예린 ﹒ Backend Engineer
+  </samp>
+</div>
+<br>
+<div>
+  <samp>
+    <p>💼 Work</p>
+    - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>2025.12 - 2026.03</sub> 
+  </samp>
+  <br><br>
+  <samp>
+    <p>🚀 Activity</p>
+    - Nexters 28th <sub>2026.01 - 2026.02</sub>
+	<br>
+	  - [kakao x goorm] 9oormthonUNIV 4th <sub>2025.03 - 2025.09</sub>
+	<br><br>
+	<p>🏆 Awards</p>
+	- Nexters 28th ﹒ 최우수상 <sub>2026.02</sub> <br>
+	- 2025 SW융합캡스톤디자인 경진대회 ﹒ 대상 <sub>2025.12</sub> <br>
+	- 2025 캡스톤디자인경진대회 ﹒ 금상 <sub>2025.12</sub> <br>
+	- 2025 충남지부 대학 연합 해커톤 ﹒ 최우수상 <sub>2025.07</sub> <br>
+	- 2025 한국통신학회 아이디어 경진대회 ﹒ 최우수상 <sub>2025.02</sub>
+  </samp>
+</div>
