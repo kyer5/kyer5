@@ -1,6 +1,6 @@
 <div>
   <samp>
-    강예린 ﹒ Backend Engineer
+    강예린 ﹒ Backend Engineer <img align="center" width="22px" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
   </samp>
 </div>
 <br>
