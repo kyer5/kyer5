@@ -10,7 +10,7 @@
 	<a href="https://www.linkedin.com/in/kyer5/">LinkedIn</a> | <a href="https://kyer5.tistory.com/">Blog</a>
 	<br><br>
     <p>💼 Work</p>
-    - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>﹒ Intern, 2025.12 - 2026.03</sub> <br>
+    - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>﹒ Intern, 2025.12 - 2026.03</sub>
   	<br><br>
     <p>🚀 Activity</p>
     - Nexters 28th <sub>2026.01 - 2026.02</sub> <br>
