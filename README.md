@@ -10,10 +10,11 @@
 	<a href="https://www.linkedin.com/in/kyer5/">LinkedIn</a> | <a href="https://kyer5.tistory.com/">Blog</a>
 	<br><br>
     <p>💼 Work</p>
+	- Terais <sub>﹒ Software Enginner, 2026.05 - ing</sub> <br>
     - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>﹒ Intern, 2025.12 - 2026.03</sub>
   	<br><br>
     <p>🚀 Activity</p>
-    - Nexters 28th <sub>2026.01 - 2026.02</sub> <br>
+    - Nexters 28th, 29th <sub>2026.01 - 2026.02, 2026.7 - 2026.08</sub> <br>
 	- [kakao x goorm] 9oormthonUNIV 4th <sub>2025.03 - 2025.09</sub>
 	<br><br>
 	<p>🏆 Awards</p>
