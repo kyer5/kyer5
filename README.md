@@ -18,6 +18,7 @@
 	- [kakao x goorm] 9oormthonUNIV 4th <sub>2025.03 - 2025.09</sub>
 	<br><br>
 	<p>🏆 Awards</p>
+	- Nexters 29th ﹒ 대상 <sub>2026.08</sub> <br>
 	- Nexters 28th ﹒ 최우수상 <sub>2026.02</sub> <br>
 	- 2025 SW융합캡스톤디자인 경진대회 ﹒ 대상 <sub>2025.12</sub> <br>
 	- 2025 캡스톤디자인경진대회 ﹒ 금상 <sub>2025.12</sub> <br>
