@@ -11,7 +11,7 @@
 	<br><br>
     <p>💼 Work</p>
 	- Terais <sub>﹒ Software Enginner, 2026.05 - ing</sub> <br>
-    - <a href="https://www.ligs.co.kr/">LIG System</a> <sub>﹒ Intern, 2025.12 - 2026.03</sub>
+    - LIG System</a> <sub>﹒ Intern, 2025.12 - 2026.03</sub>
   	<br><br>
     <p>🚀 Activity</p>
     - Nexters 28th, 29th <sub>2026.01 - 2026.08</sub> <br>
